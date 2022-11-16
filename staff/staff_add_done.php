@@ -2,7 +2,7 @@
 <html lang="ja">
     <head>
         <meta charset="utf-8">
-        <title>ろくまる農園</title>
+        <title>ろくまる農園2022</title>
     </head>
     <body>
         <?php
