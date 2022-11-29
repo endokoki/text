@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>ろくまる農園２０２３2</title>
+    <title>ろくまる農園２０２３</title>
 </head>
 
 <body>
